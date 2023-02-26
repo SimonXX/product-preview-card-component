@@ -108,7 +108,7 @@ p{
     padding: .7rem;
     border-radius: .5rem;
     border: none;
-    background-color: hsla(158, 36%, 37%, .8);
+    background-color: var(--dark-cyan);
     cursor: pointer;
     color: var(--white);
 }
